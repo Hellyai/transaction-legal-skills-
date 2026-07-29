@@ -1,4 +1,0 @@
-interface:
-  display_name: "Cap Table"
-  short_description: "生成投融资股权结构表和公式化检查。"
-  default_prompt: "使用 $captable 生成一份投融资股权结构表，包含计算逻辑、投后股权结构、完全稀释后视图、检查页和 Excel 公式。"
