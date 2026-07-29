@@ -1,6 +1,0 @@
-interface:
-  display_name: "VC/PE投资文件审阅"
-  short_description: "按固定SOP审阅投资文件并输出问题清单和KeyTerms"
-  default_prompt: "Use $vc-investment-review to review these VC/PE investment documents and produce a focused issue list."
-policy:
-  allow_implicit_invocation: true
